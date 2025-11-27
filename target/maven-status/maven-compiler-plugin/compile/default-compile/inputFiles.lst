@@ -1,0 +1,13 @@
+D:\Downloads\og\project\backend\src\main\java\klu\config\CorsConfig.java
+D:\Downloads\og\project\backend\src\main\java\klu\controller\FoodItemController.java
+D:\Downloads\og\project\backend\src\main\java\klu\controller\UsersController.java
+D:\Downloads\og\project\backend\src\main\java\klu\FoodRecipieBackendApplication.java
+D:\Downloads\og\project\backend\src\main\java\klu\model\Comment.java
+D:\Downloads\og\project\backend\src\main\java\klu\model\EmailManager.java
+D:\Downloads\og\project\backend\src\main\java\klu\model\FoodItem.java
+D:\Downloads\og\project\backend\src\main\java\klu\model\FoodItemManager.java
+D:\Downloads\og\project\backend\src\main\java\klu\model\JWTManager.java
+D:\Downloads\og\project\backend\src\main\java\klu\model\Users.java
+D:\Downloads\og\project\backend\src\main\java\klu\model\UsersManager.java
+D:\Downloads\og\project\backend\src\main\java\klu\repository\FoodItemRepository.java
+D:\Downloads\og\project\backend\src\main\java\klu\repository\UsersRepository.java

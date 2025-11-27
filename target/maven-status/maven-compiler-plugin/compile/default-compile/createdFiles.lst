@@ -1,0 +1,13 @@
+klu\repository\FoodItemRepository.class
+klu\model\EmailManager.class
+klu\config\CorsConfig.class
+klu\model\FoodItemManager.class
+klu\controller\UsersController.class
+klu\repository\UsersRepository.class
+klu\model\FoodItem.class
+klu\model\UsersManager.class
+klu\model\JWTManager.class
+klu\controller\FoodItemController.class
+klu\model\Comment.class
+klu\FoodRecipieBackendApplication.class
+klu\model\Users.class
